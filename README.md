@@ -1,5 +1,5 @@
 # Sobre mim
-- Olá, meu nome é @EricRdeOliveira, tenho 16 anos e completando 
+- Olá, meu nome é @EricRdeOliveira, tenho 16 anos e completando insino Médio
 - Meu email de contato é:ribeiro.olivera.eric@escola.pr.gov.br
 - Eu estou interessado a programar novas linguagens para melhorar meu aprendizado sobre programação
 - Eu estou aprendendo sobre a línguagem de programação recentemente pelo alura
